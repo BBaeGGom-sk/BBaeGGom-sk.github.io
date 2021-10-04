@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 맨땅에 헤딩
+description: 일단 해보는거야
+url: https://BBaeGGom-sk.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: BBaeGGom-sk
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: BBaeGGom-sk
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/BBaeGGom-sk
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 빼꼼
+  url: https://github.com/BBaeGGom-sk
+  email: dhtmdrl2004@knou.ac.kr
